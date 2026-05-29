@@ -16,14 +16,14 @@ namespace InnocentGuardPart2
         public string Recall(string key)
         {
             return memory.ContainsKey(key) ? memory[key] : string.Empty;
-
+        }
             public bool Knows(string key)
             {
                 return memory.ContainsKey(key) && !string.IsNullOrEmpty(memory[key]);
             }
         }
     }
-}
+
 
 
            
