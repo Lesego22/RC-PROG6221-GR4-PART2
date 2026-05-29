@@ -1,0 +1,17 @@
+C:\Users\leseg\source\repos\InnocentGuardPart2\bin\Debug\net8.0-windows\InnocentGuardPart2.exe
+C:\Users\leseg\source\repos\InnocentGuardPart2\bin\Debug\net8.0-windows\greeting.wav
+C:\Users\leseg\source\repos\InnocentGuardPart2\bin\Debug\net8.0-windows\InnocentGuardPart2.deps.json
+C:\Users\leseg\source\repos\InnocentGuardPart2\bin\Debug\net8.0-windows\InnocentGuardPart2.runtimeconfig.json
+C:\Users\leseg\source\repos\InnocentGuardPart2\bin\Debug\net8.0-windows\InnocentGuardPart2.dll
+C:\Users\leseg\source\repos\InnocentGuardPart2\bin\Debug\net8.0-windows\InnocentGuardPart2.pdb
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\InnocentGuardPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\InnocentGuardPart2.AssemblyInfoInputs.cache
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\InnocentGuardPart2.AssemblyInfo.cs
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\InnocentGuardPart2.csproj.CoreCompileInputs.cache
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\InnocentGuardPart2.dll
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\refint\InnocentGuardPart2.dll
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\InnocentGuardPart2.pdb
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\InnocentGuardPart2.genruntimeconfig.cache
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\ref\InnocentGuardPart2.dll
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\InnocentGuardPart2.MainForm.resources
+C:\Users\leseg\source\repos\InnocentGuardPart2\obj\Debug\net8.0-windows\InnocentGuardPart2.csproj.GenerateResource.cache
